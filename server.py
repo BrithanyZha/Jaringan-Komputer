@@ -1,5 +1,4 @@
 from socket import *
-import sys
 
 # Mendefinisikan host dan port yang akan digunakan
 HOST = '192.168.56.1'
